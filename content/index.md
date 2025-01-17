@@ -10,15 +10,15 @@ Create new pages or modify the existing ones in `content/` directory.
 
 ## Query & Render Pages
 
-You can find an example of querying contents and rendering them in a [catch-all page](https://github.com/larbish/starter/blob/content/app/pages/%5B...slug%5D.vue){target="_blank"}
+You can find an example of querying contents and rendering them in a [catch-all page](https://github.com/larbish/starter/blob/content/app/pages/%5B...slug%5D.vue)
 
 ## Integrate Vue Component
 
 ::alert{color="green"}
-The current [alert](https://github.com/larbish/starter/blob/content/app/components/Alert.vue){target="_blank"} and the [counter](https://github.com/larbish/starter/blob/content/app/components/Counter.vue){target="_blank"} below are `Vue` components integrated into the Markdown.
+The current [alert](https://github.com/larbish/starter/blob/content/app/components/Alert.vue) and the [counter](https://github.com/larbish/starter/blob/content/app/components/Counter.vue) below are `Vue` components integrated into the Markdown.
 ::
 
 ::counter
 ::
 
-Checkout out the [documentation](https://content.nuxt.com/docs/getting-started){target="_blank"} to learn more. 
+Checkout out the [documentation](https://content.nuxt.com/docs/getting-started) to learn more.
