@@ -1,1 +1,0 @@
-import{a,k as r,f as o,V as s,af as l,l as n}from"./DJaj5QcE.js";const c=a({__name:"Alert",props:{color:{type:String,default:"orange"}},setup(e){return(t,d)=>(r(),o("div",{class:"alert",style:l({"border-color":e.color})},[s(t.$slots,"default",{},void 0,!0)],4))}}),f=Object.assign(n(c,[["__scopeId","data-v-2da736c7"]]),{__name:"Alert"});export{f as default};
