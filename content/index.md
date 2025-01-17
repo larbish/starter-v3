@@ -10,7 +10,7 @@ Create new pages or modify the existing ones in `content/` directory.
 
 ## Query & Render Pages
 
-You can find an example of querying contents and rendering them in [app/pages/[...slug].vue](https://github.com/larbish/starter/blob/content/app/pages/%5B...slug%5D.vue){target="_blank"}
+You can find an example of querying contents and rendering them in a [catch-all page](https://github.com/larbish/starter/blob/content/app/pages/%5B...slug%5D.vue){target="_blank"}
 
 ## Integrate Vue Component
 

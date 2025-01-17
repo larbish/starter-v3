@@ -15,7 +15,7 @@ const { color } = defineProps({
 
 <style scoped>
 .alert {
-  display: inline-flex; /* Makes the alert width adjust to its content */
+  display: flex;
   align-items: center;
   padding: 1rem;
   border: 2px solid;
